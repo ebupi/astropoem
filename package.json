@@ -1,5 +1,5 @@
 {
-  "name": "astropoem.github.io",
+  "name": "astropoem",
   "type": "module",
   "version": "6.1.0",
   "packageManager": "pnpm@11.3.0",

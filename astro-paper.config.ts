@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://ebupi.github.io/astropoem.github.io/",
+    url: "https://ebupi.github.io/astropoem/",
     title: "astropoem",
     description: "Şiirler.",
     author: "ebupi",
@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/ebupi/astropoem.github.io/edit/main/",
+      url: "https://github.com/ebupi/astropoem/edit/master/",
     },
     search: "pagefind",
   },
