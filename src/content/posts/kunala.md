@@ -6,7 +6,7 @@ tags:
   - kimse-bilmeyecek
 draft: false
 ---
-![[Pasted image 20260727183337.png]]
+![Kunâla](../../assets/images/kunala-1.png)
 
 vakit geldi kunâla  
 dünyayı göreli çok oldu  
