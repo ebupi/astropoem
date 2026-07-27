@@ -1,5 +1,5 @@
 ---
-title: kunala
+title: kunâla
 description: '"sana bakarak bütün yüzleri unutmak"'
 pubDatetime: 2026-07-27T18:29:50+03:00
 tags:
