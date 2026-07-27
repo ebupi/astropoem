@@ -6,7 +6,7 @@ tags:
   - atilla-ilhan
 draft: false
 ---
-![aysel-git-basimdan](../../assets/images/Pasted image 20260727192804.png)
+![aysel-git-basimdan](../../assets/images/20260727192804.png)
 
 aysel git başımdan ben sana göre değilim
 ölümüm birden olacak seziyorum
